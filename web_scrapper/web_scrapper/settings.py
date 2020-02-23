@@ -26,7 +26,7 @@ SECRET_KEY = 'zjr@&68)21wvg^!e^ii0$odun!^&ys6ou989ai4&n=(sz$vxj@'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['0.0.0.0', 'localhost', 'pacific-chamber-78638.herokuapp.com/']
 
 # Application definition
 
